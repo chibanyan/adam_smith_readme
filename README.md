@@ -1,6 +1,6 @@
 # Adam Smith説明書
 作成日：2017.12.03
-更新日：2017.12.24
+更新日：2017.12.29
 
 ![Adam Smith](https://upload.wikimedia.org/wikipedia/commons/1/18/37.Adam_Smith.jpg "Adam Smith")
 
