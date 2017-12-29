@@ -23,6 +23,8 @@
 * 朝出勤前にその日の天気状況に応じて傘の有無を教えてほしい方
 * 「彼女の誕生日」を忘れて、当日怒りの鉄槌が落ちるのを回避したい方
 
+<a href="https://line.me/R/ti/p/%40lul2727q"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>
+
 ## 使い方
 
 ### 電車遅延通知
